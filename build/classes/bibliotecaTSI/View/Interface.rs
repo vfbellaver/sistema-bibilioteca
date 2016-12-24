@@ -1,0 +1,10 @@
+projbiblioteca.Interface$7
+projbiblioteca.Interface$6
+projbiblioteca.Interface
+projbiblioteca.Interface$9
+projbiblioteca.Interface$8
+projbiblioteca.Interface$3
+projbiblioteca.Interface$2
+projbiblioteca.Interface$5
+projbiblioteca.Interface$4
+projbiblioteca.Interface$1
